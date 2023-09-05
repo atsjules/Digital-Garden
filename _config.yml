@@ -21,8 +21,9 @@
 title: Jule's Garden
 email: juliadomingues035@gmail.com
 description: # >- this means to ignore newlines until "baseurl:"
-  This is my space for writing and displaying my personal projects. Make yourself at home! :)
-  Esse é o meu espaço para escrever e exibir meus projetos pessoais. Sinta-se em casa! :)
+  You can edit this
+  line in _config.yml. It SEI LA TESTE will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "Digital-Garden" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ats_jules
